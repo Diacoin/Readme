@@ -1,2 +1,2 @@
 # Readme
-We moved the source code from puplic to private repository for security reason
+We have moved the source code from public to private repository for security reason
